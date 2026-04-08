@@ -19,6 +19,6 @@
 ## Vocab:
 -   `commit` - to save a version, you can commit locally, push commit to git hub.
 
-test 1
+## update and add.
 
-test 2  
+## test 2.  
