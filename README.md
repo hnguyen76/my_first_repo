@@ -10,7 +10,6 @@
 5.  Copy `git remote add origin` command and paste in vsc terminal and hit enter
     -   this commmand links your local repo to the remote destination
     -   check this by running the command `git remote -v` shows a remote destination if you have one
-
 ## Steps to make and commit a new version of your project:
 1.  `git add .` - add all files in this directory to a new project version. 
     -   ** This does not commit, it just stages changes, these changes can still be over written**
@@ -19,6 +18,4 @@
 ## Vocab:
 -   `commit` - to save a version, you can commit locally, push commit to git hub.
 
-## update and add.
 
-## test 2.  
