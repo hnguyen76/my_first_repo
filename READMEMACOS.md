@@ -19,4 +19,10 @@
 ## Vocab:
 -   `commit` - to save a version, you can commit locally, push commit to git hub.
 
-test 1
+## push file to github
+1. git add .
+2. git push -u origin main/master 
+3. git commit -m "message to commit"
+4. make sure save file and git a . then git push then 
+
+test 2
