@@ -1,0 +1,4 @@
+SELECT *
+FROM payments
+WHERE paymentDATE >= '2005-01-01'
+ORDER BY paymentDATE DESC;
